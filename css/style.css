@@ -30,7 +30,7 @@
     list-style: none;
     text-decoration: none;
 	font-family: 'Open Sans', sans-serif;
-	4
+	
 }
 /* Starting for header */
 header{
@@ -125,7 +125,7 @@ footer{
 
 .container .section{
     flex-basis: 50%;
-    padding: 0 250px;
+    padding: 0 16px;
 }
 
 .section h2{
